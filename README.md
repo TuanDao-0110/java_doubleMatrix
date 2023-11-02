@@ -19,3 +19,17 @@ Sum of integers in row 2 is: 9
 Sum of integers in row 3 is: 79
 ```
 ## Exercise 9:
+- Calculate the sum of `odd values` in `each column`
+```
+Enter the number of rows: 
+Enter a value > 1: 
+2
+Enter the number of columns:
+Enter a value > 1: 
+2
+Array A values are: 
+-43     40
+-50     -43
+Sum of integers in column 0 is: -43
+Sum of integers in column 1 is: -43
+```
