@@ -33,3 +33,10 @@ Array A values are:
 Sum of integers in column 0 is: -43
 Sum of integers in column 1 is: -43
 ```
+
+## Exercise 10:
+- Check if each row of the `2D array` contains `negative` numbers:
+```
+Row 0 contains negative numbers.
+Row 1 does not contain negative numbers.
+```
