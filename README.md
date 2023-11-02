@@ -1,2 +1,2 @@
 ## Exercise 1:
-<li>Find the first even number in the 2D array
+- Find the first even number each row in the `2D array` 
