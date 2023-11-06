@@ -41,4 +41,13 @@ Row 0 contains negative numbers.
 Row 1 does not contain negative numbers.
 ```
 ## Exercise 11:
-- Check weather a matrix column is in ascending order
+- Check if a matrix column is in ascending order
+
+
+## Exercise 12:
+
+- Check if each row of the `2D array` contains `negative` numbers:
+
+## Exercise 13:
+- Sum up all the integers in `Matrix`
+
