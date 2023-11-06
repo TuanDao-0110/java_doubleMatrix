@@ -54,3 +54,5 @@ Row 1 does not contain negative numbers.
 ## Exercise 14:
 - Find the most frequently appearing element in `Matrix`
 
+## Exercise 15:
+- Check if `Matrix` is sparse 
