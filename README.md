@@ -51,3 +51,6 @@ Row 1 does not contain negative numbers.
 ## Exercise 13:
 - Sum up all the integers in `Matrix`
 
+## Exercise 14:
+- Find the most frequently appearing element in `Matrix`
+
