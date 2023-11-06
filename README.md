@@ -40,3 +40,5 @@ Sum of integers in column 1 is: -43
 Row 0 contains negative numbers.
 Row 1 does not contain negative numbers.
 ```
+## Exercise 11:
+- Check weather a matrix column is in ascending order
